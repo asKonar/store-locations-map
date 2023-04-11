@@ -28,5 +28,3 @@ app.layout = html.Div(children=[
         dcc.Graph(figure=fig),
     )
 ])
-
-app.run_server()

@@ -1,7 +1,7 @@
 import plotly.express as px
 import pandas as pd
 
-import dash
+from flask import Flask
 from dash import dcc, html, Dash
 
 zabka = pd.read_csv('https://raw.githubusercontent.com/asKonar/zabka-locations-map/main/zabka_map_data.csv')

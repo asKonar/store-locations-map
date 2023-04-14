@@ -383,7 +383,7 @@ Ul. Solskiego 22,Brzesko,49.9759555,20.6149555,Brzeski,Małopolskie
 Ul. Mickiewicza 4,Brzeszcze,49.9691664,19.1342969,Oświęcimski,Małopolskie
 Ul. Ofiar Oświęcimia 52,Brzeszcze,49.9863959,19.1588663,Oświęcimski,Małopolskie
 Ul. Armii Krajowej 6,Brzozów,49.6938201,22.0164438,Brzozowski,Podkarpackie
-154,Budzyń,50.0428113,19.7883449,Chodzieski,Wielkopolskie
+154,Budzyń,52.8901065,16.9831846,Chodzieski,Wielkopolskie
 Ul. Sławkowska 2a,Bukowno,50.277657,19.4425181,Olkuski,Małopolskie
 Ul. Witosa 68,Busko-Zdrój,50.4635395,20.6994043,Buski,Świętokrzyskie
 Ul. Bohaterów Warszawy 106a,Busko-Zdrój,50.469057,20.705117,Buski,Świętokrzyskie
@@ -1804,9 +1804,6 @@ Kiepury 49,Jelenia Góra,50.9223786,15.7558997,Jelenia Góra,Dolnośląskie
 Moniuszki 3a Lok. Lu 2a,Jelenia Góra,50.9162675,15.7563007,Jelenia Góra,Dolnośląskie
 Ul. Bacewicz 6,Jelenia Góra,50.9161177,15.7595956,Jelenia Góra,Dolnośląskie
 Ul. Rynek 19,Jordanów,49.6491111,19.8309102,Suski,Małopolskie
-Ul. Sikorskiego 65c,Józefów,52.143783,21.2297255,Biłgorajski,Lubelskie
-Polna 5b,Józefów,52.1370318,21.2319536,Biłgorajski,Lubelskie
-Piłsudskiego 136a,Józefów,52.1308086,21.2395418,Biłgorajski,Lubelskie
 Ul. Serbinowska 10,Kalisz,51.7489047,18.0699311,Kalisz,Wielkopolskie
 Ul. Bogumiła I Barbary 8a,Kalisz,51.751411,18.074841,Kalisz,Wielkopolskie
 Górnośląska 30,Kalisz,51.7544086,18.0802313,Kalisz,Wielkopolskie
@@ -3915,81 +3912,81 @@ Ul. Kazimierza Wielkiego Dz.2293/3,Olkusz,50.2753566,19.5725222,Olkuski,Małopol
 Ul. Kazimierza Wielkiego 61c Lok. 1,Olkusz,50.2752189,19.5733831,Olkuski,Małopolskie
 Armii Krajowej 12a,Olkusz,50.2657369,19.5780216,Olkuski,Małopolskie
 Al. 1000-Lecia 2b,Olkusz,50.2690965,19.5783745,Olkuski,Małopolskie
-Żurawia 24d/1b,Olsztyn,53.8001439,20.3999092,Częstochowski,Śląskie
-Rolna 109b,Olsztyn,53.7648164,20.4189059,Częstochowski,Śląskie
-Ul. Kłosowa 4b,Olsztyn,53.765591,20.4278368,Częstochowski,Śląskie
-Ul. Stokrotki 1,Olsztyn,53.803338,20.4425409,Częstochowski,Śląskie
-Ul. Bałtycka 18a,Olsztyn,53.7895566,20.4443551,Częstochowski,Śląskie
-Ul. Jagiellończyka 36,Olsztyn,53.7724803,20.4550481,Częstochowski,Śląskie
-Armii Krajowej 3/158,Olsztyn,53.7688943,20.4580218,Częstochowski,Śląskie
-Ul. Bałtycka 33a,Olsztyn,53.7809679,20.4583265,Częstochowski,Śląskie
-Leśna 14/5h,Olsztyn,53.7838207,20.4652917,Częstochowski,Śląskie
-Ul. Tuwima 5c Lok.6,Olsztyn,53.7570152,20.4676824,Częstochowski,Śląskie
-Ul. Grunwaldzka 18a,Olsztyn,53.7756544,20.4709667,Częstochowski,Śląskie
-Iwaszkiewicza 22c/01,Olsztyn,53.7625307,20.4715773,Częstochowski,Śląskie
-Walentego Barczewskiego 1/12l,Olsztyn,53.770536,20.4721732,Częstochowski,Śląskie
-Ul. Juliana Tuwima 26,Olsztyn,53.7554977,20.4729336,Częstochowski,Śląskie
-Ul. Orkana 13,Olsztyn,53.7730475,20.4751835,Częstochowski,Śląskie
-Stare Miasto 17/21lok33,Olsztyn,53.7760607,20.4756237,Częstochowski,Śląskie
-Stare Miasto 4/6 Lok. 14,Olsztyn,53.776905,20.476431,Częstochowski,Śląskie
-Popiełuszki 24/H4,Olsztyn,53.7360628,20.4765757,Częstochowski,Śląskie
-Srebrna 2/2l,Olsztyn,53.7256722,20.4772875,Częstochowski,Śląskie
+Żurawia 24d/1b,Olsztyn,53.8001439,20.3999092,Olsztyński,Warmińsko-Mazurskie
+Rolna 109b,Olsztyn,53.7648164,20.4189059,Olsztyński,Warmińsko-Mazurskie
+Ul. Kłosowa 4b,Olsztyn,53.765591,20.4278368,Olsztyński,Warmińsko-Mazurskie
+Ul. Stokrotki 1,Olsztyn,53.803338,20.4425409,Olsztyński,Warmińsko-Mazurskie
+Ul. Bałtycka 18a,Olsztyn,53.7895566,20.4443551,Olsztyński,Warmińsko-Mazurskie
+Ul. Jagiellończyka 36,Olsztyn,53.7724803,20.4550481,Olsztyński,Warmińsko-Mazurskie
+Armii Krajowej 3/158,Olsztyn,53.7688943,20.4580218,Olsztyński,Warmińsko-Mazurskie
+Ul. Bałtycka 33a,Olsztyn,53.7809679,20.4583265,Olsztyński,Warmińsko-Mazurskie
+Leśna 14/5h,Olsztyn,53.7838207,20.4652917,Olsztyński,Warmińsko-Mazurskie
+Ul. Tuwima 5c Lok.6,Olsztyn,53.7570152,20.4676824,Olsztyński,Warmińsko-Mazurskie
+Ul. Grunwaldzka 18a,Olsztyn,53.7756544,20.4709667,Olsztyński,Warmińsko-Mazurskie
+Iwaszkiewicza 22c/01,Olsztyn,53.7625307,20.4715773,Olsztyński,Warmińsko-Mazurskie
+Walentego Barczewskiego 1/12l,Olsztyn,53.770536,20.4721732,Olsztyński,Warmińsko-Mazurskie
+Ul. Juliana Tuwima 26,Olsztyn,53.7554977,20.4729336,Olsztyński,Warmińsko-Mazurskie
+Ul. Orkana 13,Olsztyn,53.7730475,20.4751835,Olsztyński,Warmińsko-Mazurskie
+Stare Miasto 17/21lok33,Olsztyn,53.7760607,20.4756237,Olsztyński,Warmińsko-Mazurskie
+Stare Miasto 4/6 Lok. 14,Olsztyn,53.776905,20.476431,Olsztyński,Warmińsko-Mazurskie
+Popiełuszki 24/H4,Olsztyn,53.7360628,20.4765757,Olsztyński,Warmińsko-Mazurskie
+Srebrna 2/2l,Olsztyn,53.7256722,20.4772875,Olsztyński,Warmińsko-Mazurskie
 Marii Curie-Skłodowskiej 8/1,Olsztyn,53.7793699,20.4779908,Częstochowski,Śląskie
-11 Listopada 11/9,Olsztyn,53.7783175,20.4788067,Częstochowski,Śląskie
-Pieniężnego 17 Lok. 11,Olsztyn,53.7773801,20.4800196,Częstochowski,Śląskie
-Ul. Gottfrieda Herdera 1a,Olsztyn,53.778422,20.4801193,Częstochowski,Śląskie
-Nefrytowa 1/1,Olsztyn,53.7344011,20.4806576,Częstochowski,Śląskie
-Ul. Mrongowiusza 10b/1b,Olsztyn,53.779327,20.4807112,Częstochowski,Śląskie
-Ul. Partyzantów 88,Olsztyn,53.7811326,20.4810724,Częstochowski,Śląskie
-Ul. Wilczyńskiego 20b,Olsztyn,53.7399199,20.4813577,Częstochowski,Śląskie
-Al. Wojska Polskiego 19/22,Olsztyn,53.789248,20.4816771,Częstochowski,Śląskie
-Al. Wojska Polskiego 67-68 Lok. 1a,Olsztyn,53.7864143,20.48289,Częstochowski,Śląskie
-Tadeusza Kościuszki 92/11u,Olsztyn,53.7721978,20.4840944,Częstochowski,Śląskie
-Dąbrowszczaków 8/9a Lok. 2,Olsztyn,53.7799884,20.4848017,Częstochowski,Śląskie
-Partyzantów 77/10,Olsztyn,53.7819008,20.484845,Częstochowski,Śląskie
-Rotmistrza Witolda Pileckiego 1/28,Olsztyn,53.7446614,20.4858769,Częstochowski,Śląskie
-Jagiellońska 23a,Olsztyn,53.7876457,20.4867604,Częstochowski,Śląskie
-Al. Gen. W. Sikorskiego 19 Lok.2,Olsztyn,53.7474534,20.4872723,Częstochowski,Śląskie
-Ul. Mazowiecka 10 Lok. F,Olsztyn,53.7371992,20.4876901,Częstochowski,Śląskie
-Kościuszki 45ab,Olsztyn,53.7772717,20.488463,Częstochowski,Śląskie
-Ul. Kopernika 12 Lok. 1,Olsztyn,53.780382,20.4890554,Częstochowski,Śląskie
-Ul. Pstrowskiego 7a Lok. U1,Olsztyn,53.7664955,20.4892525,Częstochowski,Śląskie
-Al.Marszałka Józefa Piłsudskiego 36,Olsztyn,53.7755855,20.4893623,Częstochowski,Śląskie
-Wilczyńskiego 16,Olsztyn,53.7403972,20.4896561,Częstochowski,Śląskie
-Ul. Jagiellońska 44b,Olsztyn,53.7895354,20.4901858,Częstochowski,Śląskie
-Ul. Jarocka 41b,Olsztyn,53.7437156,20.4901887,Częstochowski,Śląskie
-Ul. Limanowskiego 13/13,Olsztyn,53.7863431,20.4909887,Częstochowski,Śląskie
-Floriana Piotrowskiego 12a,Olsztyn,53.7373786,20.4915378,Częstochowski,Śląskie
-Ul. Limanowskiego 32 Lok. 13 .,Olsztyn,53.7885322,20.4917385,Częstochowski,Śląskie
-Ul. Kołobrzeska 6 Lok. 2,Olsztyn,53.7790266,20.4920294,Częstochowski,Śląskie
-Ul. Kopernika 29-31 Lok.7,Olsztyn,53.7828247,20.4921913,Częstochowski,Śląskie
-Wilczyńskiego 25e Lok. 1,Olsztyn,53.7408657,20.493595,Częstochowski,Śląskie
-Janowicza 30 Lok. B/2,Olsztyn,53.7373998,20.4942002,Częstochowski,Śląskie
-Kościuszki 25/17,Olsztyn,53.7823756,20.494426,Częstochowski,Śląskie
-Ul. Partyzantów 63,Olsztyn,53.7842066,20.4951778,Częstochowski,Śląskie
-Kościuszki 13/15 Lok.1,Olsztyn,53.783529,20.496208,Częstochowski,Śląskie
-Jagiellońska 52b/1,Olsztyn,53.7927913,20.4962697,Częstochowski,Śląskie
-Pstrowskiego 23,Olsztyn,53.7646845,20.4979596,Częstochowski,Śląskie
-Ul. Piłsudskiego 44a,Olsztyn,53.7733308,20.498107,Częstochowski,Śląskie
-Ul. Dworcowa 48a,Olsztyn,53.7699668,20.4982134,Częstochowski,Śląskie
-Ul. Orłowicza 39,Olsztyn,53.7552514,20.4985067,Częstochowski,Śląskie
-Ul. Barcza 3a,Olsztyn,53.7527041,20.4997006,Częstochowski,Śląskie
-Edwarda Abramowskiego 1 A,Olsztyn,53.7961479,20.4997163,Częstochowski,Śląskie
-Ul. Poprzeczna 1a,Olsztyn,53.793746,20.4997511,Częstochowski,Śląskie
-Pstrowskiego 33 Lok. 1,Olsztyn,53.7641812,20.4999371,Częstochowski,Śląskie
-Barcza 48/4l,Olsztyn,53.75125,20.5000712,Częstochowski,Śląskie
-Johanna Gottfrieda Herdera 28,Olsztyn,53.7401313,20.5019252,Częstochowski,Śląskie
-Dworcowa 25 Lok. I,Olsztyn,53.774532,20.502535,Częstochowski,Śląskie
-Ul. Bp. Wilczyńskiego 17 Lok. E,Olsztyn,53.741219,20.5031274,Częstochowski,Śląskie
-Al. Piłsudskiego 54,Olsztyn,53.7712688,20.5032514,Częstochowski,Śląskie
-Kanta 13a,Olsztyn,53.7369246,20.5038588,Częstochowski,Śląskie
-Ul. Barcza 58 Lok. U1,Olsztyn,53.7494237,20.5043989,Częstochowski,Śląskie
-Ul. Poprzeczna 18a,Olsztyn,53.7917421,20.5045792,Częstochowski,Śląskie
-Ul. Boenigka 7d,Olsztyn,53.744465,20.5050799,Częstochowski,Śląskie
-Augustowska 4,Olsztyn,53.766289,20.508018,Częstochowski,Śląskie
-Bolesława Jeziołowicza 7p,Olsztyn,53.7428545,20.509716,Częstochowski,Śląskie
-Ul. Wyszyńskiego 1,Olsztyn,53.769947,20.510064,Częstochowski,Śląskie
-Władysława Gębika 2/38,Olsztyn,53.7409792,20.5142171,Częstochowski,Śląskie
+11 Listopada 11/9,Olsztyn,53.7783175,20.4788067,Olsztyński,Warmińsko-Mazurskie
+Pieniężnego 17 Lok. 11,Olsztyn,53.7773801,20.4800196,Olsztyński,Warmińsko-Mazurskie
+Ul. Gottfrieda Herdera 1a,Olsztyn,53.778422,20.4801193,Olsztyński,Warmińsko-Mazurskie
+Nefrytowa 1/1,Olsztyn,53.7344011,20.4806576,Olsztyński,Warmińsko-Mazurskie
+Ul. Mrongowiusza 10b/1b,Olsztyn,53.779327,20.4807112,Olsztyński,Warmińsko-Mazurskie
+Ul. Partyzantów 88,Olsztyn,53.7811326,20.4810724,Olsztyński,Warmińsko-Mazurskie
+Ul. Wilczyńskiego 20b,Olsztyn,53.7399199,20.4813577,Olsztyński,Warmińsko-Mazurskie
+Al. Wojska Polskiego 19/22,Olsztyn,53.789248,20.4816771,Olsztyński,Warmińsko-Mazurskie
+Al. Wojska Polskiego 67-68 Lok. 1a,Olsztyn,53.7864143,20.48289,Olsztyński,Warmińsko-Mazurskie
+Tadeusza Kościuszki 92/11u,Olsztyn,53.7721978,20.4840944,Olsztyński,Warmińsko-Mazurskie
+Dąbrowszczaków 8/9a Lok. 2,Olsztyn,53.7799884,20.4848017,Olsztyński,Warmińsko-Mazurskie
+Partyzantów 77/10,Olsztyn,53.7819008,20.484845,Olsztyński,Warmińsko-Mazurskie
+Rotmistrza Witolda Pileckiego 1/28,Olsztyn,53.7446614,20.4858769,Olsztyński,Warmińsko-Mazurskie
+Jagiellońska 23a,Olsztyn,53.7876457,20.4867604,Olsztyński,Warmińsko-Mazurskie
+Al. Gen. W. Sikorskiego 19 Lok.2,Olsztyn,53.7474534,20.4872723,Olsztyński,Warmińsko-Mazurskie
+Ul. Mazowiecka 10 Lok. F,Olsztyn,53.7371992,20.4876901,Olsztyński,Warmińsko-Mazurskie
+Kościuszki 45ab,Olsztyn,53.7772717,20.488463,Olsztyński,Warmińsko-Mazurskie
+Ul. Kopernika 12 Lok. 1,Olsztyn,53.780382,20.4890554,Olsztyński,Warmińsko-Mazurskie
+Ul. Pstrowskiego 7a Lok. U1,Olsztyn,53.7664955,20.4892525,Olsztyński,Warmińsko-Mazurskie
+Al.Marszałka Józefa Piłsudskiego 36,Olsztyn,53.7755855,20.4893623,Olsztyński,Warmińsko-Mazurskie
+Wilczyńskiego 16,Olsztyn,53.7403972,20.4896561,Olsztyński,Warmińsko-Mazurskie
+Ul. Jagiellońska 44b,Olsztyn,53.7895354,20.4901858,Olsztyński,Warmińsko-Mazurskie
+Ul. Jarocka 41b,Olsztyn,53.7437156,20.4901887,Olsztyński,Warmińsko-Mazurskie
+Ul. Limanowskiego 13/13,Olsztyn,53.7863431,20.4909887,Olsztyński,Warmińsko-Mazurskie
+Floriana Piotrowskiego 12a,Olsztyn,53.7373786,20.4915378,Olsztyński,Warmińsko-Mazurskie
+Ul. Limanowskiego 32 Lok. 13 .,Olsztyn,53.7885322,20.4917385,Olsztyński,Warmińsko-Mazurskie
+Ul. Kołobrzeska 6 Lok. 2,Olsztyn,53.7790266,20.4920294,Olsztyński,Warmińsko-Mazurskie
+Ul. Kopernika 29-31 Lok.7,Olsztyn,53.7828247,20.4921913,Olsztyński,Warmińsko-Mazurskie
+Wilczyńskiego 25e Lok. 1,Olsztyn,53.7408657,20.493595,Olsztyński,Warmińsko-Mazurskie
+Janowicza 30 Lok. B/2,Olsztyn,53.7373998,20.4942002,Olsztyński,Warmińsko-Mazurskie
+Kościuszki 25/17,Olsztyn,53.7823756,20.494426,Olsztyński,Warmińsko-Mazurskie
+Ul. Partyzantów 63,Olsztyn,53.7842066,20.4951778,Olsztyński,Warmińsko-Mazurskie
+Kościuszki 13/15 Lok.1,Olsztyn,53.783529,20.496208,Olsztyński,Warmińsko-Mazurskie
+Jagiellońska 52b/1,Olsztyn,53.7927913,20.4962697,Olsztyński,Warmińsko-Mazurskie
+Pstrowskiego 23,Olsztyn,53.7646845,20.4979596,Olsztyński,Warmińsko-Mazurskie
+Ul. Piłsudskiego 44a,Olsztyn,53.7733308,20.498107,Olsztyński,Warmińsko-Mazurskie
+Ul. Dworcowa 48a,Olsztyn,53.7699668,20.4982134,Olsztyński,Warmińsko-Mazurskie
+Ul. Orłowicza 39,Olsztyn,53.7552514,20.4985067,Olsztyński,Warmińsko-Mazurskie
+Ul. Barcza 3a,Olsztyn,53.7527041,20.4997006,Olsztyński,Warmińsko-Mazurskie
+Edwarda Abramowskiego 1 A,Olsztyn,53.7961479,20.4997163,Olsztyński,Warmińsko-Mazurskie
+Ul. Poprzeczna 1a,Olsztyn,53.793746,20.4997511,Olsztyński,Warmińsko-Mazurskie
+Pstrowskiego 33 Lok. 1,Olsztyn,53.7641812,20.4999371,Olsztyński,Warmińsko-Mazurskie
+Barcza 48/4l,Olsztyn,53.75125,20.5000712,Olsztyński,Warmińsko-Mazurskie
+Johanna Gottfrieda Herdera 28,Olsztyn,53.7401313,20.5019252,Olsztyński,Warmińsko-Mazurskie
+Dworcowa 25 Lok. I,Olsztyn,53.774532,20.502535,Olsztyński,Warmińsko-Mazurskie
+Ul. Bp. Wilczyńskiego 17 Lok. E,Olsztyn,53.741219,20.5031274,Olsztyński,Warmińsko-Mazurskie
+Al. Piłsudskiego 54,Olsztyn,53.7712688,20.5032514,Olsztyński,Warmińsko-Mazurskie
+Kanta 13a,Olsztyn,53.7369246,20.5038588,Olsztyński,Warmińsko-Mazurskie
+Ul. Barcza 58 Lok. U1,Olsztyn,53.7494237,20.5043989,Olsztyński,Warmińsko-Mazurskie
+Ul. Poprzeczna 18a,Olsztyn,53.7917421,20.5045792,Olsztyński,Warmińsko-Mazurskie
+Ul. Boenigka 7d,Olsztyn,53.744465,20.5050799,Olsztyński,Warmińsko-Mazurskie
+Augustowska 4,Olsztyn,53.766289,20.508018,Olsztyński,Warmińsko-Mazurskie
+Bolesława Jeziołowicza 7p,Olsztyn,53.7428545,20.509716,Olsztyński,Warmińsko-Mazurskie
+Ul. Wyszyńskiego 1,Olsztyn,53.769947,20.510064,Olsztyński,Warmińsko-Mazurskie
+Władysława Gębika 2/38,Olsztyn,53.7409792,20.5142171,Olsztyński,Warmińsko-Mazurskie
 Warszawska 8,Olsztynek,53.582502,20.282686,Olsztyński,Warmińsko-Mazurskie
 Ul. 3 Maja 49,Opalenica,52.3026258,16.4094655,Nowotomyski,Wielkopolskie
 Ul. Polna 21 .,Opalenica,52.30876,16.4128,Nowotomyski,Wielkopolskie
@@ -4389,8 +4386,8 @@ Ul. 26 Kwietnia 7,Police,53.5402889,14.539714,Policki,Zachodniopomorskie
 Ul. Grota Roweckiego 5/5,Police,53.5408609,14.5451878,Policki,Zachodniopomorskie
 Ul. Wyszyńskiego 13,Police,53.5396957,14.5474882,Policki,Zachodniopomorskie
 Rycerska 7b Lok. Lu,Police,53.5513494,14.5725086,Policki,Zachodniopomorskie
-Ul. Grunwaldzka 9a,Police,53.1413665,17.9420757,Policki,Zachodniopomorskie
-Ul. Zamenhofa 46c,Police,52.2489978,20.9953644,Policki,Zachodniopomorskie
+Ul. Grunwaldzka 9a,Police,53.5514821,14.5696928,Policki,Zachodniopomorskie
+Ul. Zamenhofa 46c,Police,53.5388384,14.5507215,Policki,Zachodniopomorskie
 Chocianowska 68a,Polkowice,51.4996624,16.0448931,Polkowicki,Dolnośląskie
 Ul. Żarska 6a,Polkowice,51.50479,16.058938,Polkowicki,Dolnośląskie
 Kominka 5,Polkowice,51.5024848,16.0620494,Polkowicki,Dolnośląskie

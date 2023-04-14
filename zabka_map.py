@@ -5,9 +5,7 @@ import plotly.express as px
 
 zabka = pd.read_csv('https://raw.githubusercontent.com/asKonar/zabka-locations-map/main/zabka_map_data.csv').sort_values(by=['Voivodeship'], ascending=True)
 
-external_stylesheets = [dbc.themes.LUX]
-
-app = Dash(__name__, external_stylesheets=external_stylesheets)
+app = Dash(__name__)
 server = app.server
 
 app.layout = html.Div([

@@ -57,6 +57,3 @@ def graph_update(voivodeship):
     fig.update_layout(margin=dict(l=0, r=0, t=0, b=0))
 
     return fig
-
-
-app.run_server()

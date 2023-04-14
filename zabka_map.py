@@ -1,8 +1,8 @@
-import plotly.express as px
+from dash import dcc, html, Dash, Input, Output
+import dash_bootstrap_components as dbc
 import pandas as pd
+import plotly.express as px
 
-from flask import Flask
-from dash import dcc, html, Dash
 
 zabka = pd.read_csv('https://raw.githubusercontent.com/asKonar/zabka-locations-map/main/zabka_map_data.csv').sort_values(by=['Voivodeship'], ascending=True)
 

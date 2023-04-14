@@ -1,5 +1,4 @@
 from dash import dcc, html, Dash, Input, Output
-import dash_bootstrap_components as dbc
 import pandas as pd
 import plotly.express as px
 
@@ -12,9 +11,9 @@ app = Dash(__name__, external_stylesheets=external_stylesheets)
 server = app.server
 
 app.layout = html.Div([
-    dbc.Container([
+    html.Div([
         html.Div([
-            dbc.Col(html.H1('Żabka location map'))
+            html.H1('Żabka location map')
         ]),
         dcc.Dropdown(
             options=zabka['Voivodeship'].unique(),

@@ -1,1 +1,0 @@
-from zabka_map import server as application
